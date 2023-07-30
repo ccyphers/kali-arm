@@ -1,8 +1,10 @@
 # Folders
+
+.git.orig
 base/*
 local/*
 logs/*
-images/*
+#images/*
 
 # Files
 builder.txt
